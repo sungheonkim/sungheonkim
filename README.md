@@ -1,6 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=wave&height=300&color=87CEEB&text=Hello!%20I'm%20sungheon&reversal=false&fontSize=40)
 
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <h1 align="center">Hi 👋, I'm sungheon</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
