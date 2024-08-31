@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+https://capsule-render.vercel.app/api?type=rounded&height=300&color=87CEEB&text=Developer%20in%20Progress,%20Evolving%20Every%20Day&reversal=false&fontSize=40
 
 
 <h1 align="center">Hi 👋, I'm sungheon</h1>
