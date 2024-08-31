@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=87CEEB&text=Developer%20in%20Progress,%20Evolving%20Every%20Day&reversal=false&fontSize=40)
+![Header](https://capsule-render.vercel.app/api?type=wave&height=300&color=87CEEB&text=Hello!%20I'm%20sungheon&reversal=false&fontSize=40)
 
 
 <h1 align="center">Hi 👋, I'm sungheon</h1>
