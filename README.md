@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
+
 <h1 align="center">Hi 👋, I'm sungheon</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
