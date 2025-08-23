@@ -32,6 +32,7 @@
         <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
     </div>
+    <br>
     <!-- AI / Machine Learning -->
     <p><strong>AI / Machine Learning</strong></p>
     <div>
@@ -41,11 +42,13 @@
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
         <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white">
     </div>
+    <br>
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
+    <br>
      <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
@@ -55,18 +58,21 @@
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     </div>
+    <br>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Uvicorn-009688?style=for-the-badge&logo=uvicorn&logoColor=white">
     </div>
+    <br>
      <!-- DevOps & Deployment -->
     <p><strong>DevOps & Deployment</strong></p>
     <div>
         <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
     </div>
+    <br>
     <!-- Tools & Collaboration -->
     <p><strong>Tools & Collaboration</strong></p>
     <div>
