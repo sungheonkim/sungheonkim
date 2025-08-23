@@ -2,7 +2,7 @@
 <div align="left">
 
 <br>
-## 💻 DEV's log 💻
+💻 DEV's log 💻
 <div>
     <a href="https://velog.io/@tjdgjswkd/posts">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
@@ -16,7 +16,7 @@
     </a>
 </div>
 <br>
-## 🔨 Once I've used 🔨 ##
+🔨 <p><strongg>Once I've used</strongg></p> 🔨
     
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <!-- Backend -->
