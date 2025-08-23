@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=87CEEB&text=Hello!%20I'm%20sungheon&reversal=false&fontSize=40)
 <div align="left">
--------
+
 <br>
 ## 💻 DEV's log 💻
 <div>
@@ -9,14 +9,15 @@
     </a>
 </div>
 <br>
-## 📞 Contact 📞
+📞 Contact 📞
 <div>
     <a href="https://open.kakao.com/o/s8xw07Lg">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
 </div>
 <br>
-## 🔨 Once I've used 🔨
+## 🔨 Once I've used 🔨 ##
+    
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <!-- Backend -->
     <p><strong>Backend</strong></p>
