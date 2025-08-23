@@ -16,7 +16,7 @@
     </a>
 </div>
 <br>
-🔨 <p><strongg>Once I've used</strongg></p> 🔨
+🔨 Once I've used 🔨
     
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <!-- Backend -->
