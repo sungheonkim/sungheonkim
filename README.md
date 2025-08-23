@@ -67,7 +67,6 @@
         <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
     </div>
-
     <!-- Tools & Collaboration -->
     <p><strong>Tools & Collaboration</strong></p>
     <div>
